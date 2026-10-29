@@ -1,0 +1,28 @@
+.theme-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 12px;
+}
+
+.theme-card {
+  border-radius: 14px;
+  border: 1px solid var(--border-color);
+  cursor: pointer;
+  overflow: hidden;
+  transition: border-color 0.3s, box-shadow 0.3s;
+  background: var(--bg-secondary);
+}
+
+.theme-card.active {
+  background: rgba(var(--glow), 0.06);
+}
+
+.theme-preview {
+  height: 70px;
+  padding: 12px;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+
+@media (max-width: 600px) {
+  .theme-grid { grid-template-columns: repeat(2, 1fr); }
+}

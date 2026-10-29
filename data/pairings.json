@@ -1,0 +1,213 @@
+{
+  "people": [
+    {
+      "name": "Huda Khatoon",
+      "email": "huda.khatoon@ibm.com"
+    },
+    {
+      "name": "Shalva Anuashvili",
+      "email": "shalva@ibm.com"
+    },
+    {
+      "name": "Emily Richards",
+      "email": "emily.richards@ibm.com"
+    },
+    {
+      "name": "Smruthi Raj Mohan",
+      "email": "smruthi.rajmohan@ibm.com"
+    },
+    {
+      "name": "Rohan Swaby",
+      "email": "Rohan.Swaby@ibm.com"
+    },
+    {
+      "name": "David Hinton",
+      "email": "djhinton@ibm.com"
+    },
+    {
+      "name": "Brielle Kolf",
+      "email": "brielle.kolf1@ibm.com"
+    },
+    {
+      "name": "Ava Harnick",
+      "email": "Ava.Harnick@ibm.com"
+    },
+    {
+      "name": "Shweta Mayekar",
+      "email": "Shweta.Mayekar@ibm.com"
+    },
+    {
+      "name": "Connie He",
+      "email": "Connie.He@ibm.com"
+    },
+    {
+      "name": "Matt Epstein",
+      "email": "Matt.Epstein@ibm.com"
+    },
+    {
+      "name": "Daniel Rosini",
+      "email": "Daniel.Rosini@ibm.com"
+    },
+    {
+      "name": "Archna Saxena",
+      "email": "arsaxena@in.ibm.com"
+    },
+    {
+      "name": "Albert Chen",
+      "email": "Albert.Chen@ibm.com"
+    },
+    {
+      "name": "Hennah Nazari",
+      "email": "Hennah.Nazari@ibm.com"
+    },
+    {
+      "name": "Romit Bhatia",
+      "email": "romit.bhatia@ibm.com"
+    },
+    {
+      "name": "Rajkamal Singh",
+      "email": "rajkamal.singh@ibm.com"
+    },
+    {
+      "name": "David Roglieri",
+      "email": "david.roglieri@ibm.com"
+    },
+    {
+      "name": "Quin Robinson",
+      "email": "Quin.Robinson@ibm.com"
+    },
+    {
+      "name": "Sophia Kohn",
+      "email": "sophia.kohn@ibm.com"
+    }
+  ],
+  "history": {
+    "2026": {
+      "monthly": {
+        "April": [
+          [
+            "Brielle Kolf",
+            "Albert Chen"
+          ],
+          [
+            "Smruthi Raj Mohan",
+            "David Hinton"
+          ],
+          [
+            "Shweta Mayekar",
+            "Emily Richards"
+          ],
+          [
+            "Matt Epstein",
+            "Connie He"
+          ],
+          [
+            "Huda Khatoon",
+            "Archna Saxena"
+          ],
+          [
+            "Ava Harnick",
+            "Daniel Rosini"
+          ],
+          [
+            "Romit Bhatia",
+            "David Roglieri"
+          ],
+          [
+            "Shalva Anuashvili",
+            "Rajkamal Singh"
+          ],
+          [
+            "Hennah Nazari",
+            "Rohan Swaby"
+          ]
+        ],
+        "June": [
+          [
+            "Smruthi Raj Mohan",
+            "Connie He"
+          ],
+          [
+            "Avi Kumar",
+            "Ava Harnick"
+          ],
+          [
+            "Emily Richards",
+            "Daniel Rosini"
+          ],
+          [
+            "Rajkamal Singh",
+            "David Roglieri"
+          ],
+          [
+            "Shalva Anuashvili",
+            "Dhanvin Lakshmisha"
+          ],
+          [
+            "Rohan Swaby",
+            "Romit Bhatia"
+          ],
+          [
+            "Hennah Nazari",
+            "Quin Robinson"
+          ],
+          [
+            "Archna Saxena",
+            "Matt Epstein"
+          ],
+          [
+            "Brielle Kolf",
+            "David Hinton"
+          ],
+          [
+            "Huda Khatoon",
+            "Shweta Mayekar"
+          ],
+          [
+            "Albert Chen",
+            "Akshar Vedantham"
+          ]
+        ],
+        "October": [
+          [
+            "Ava Harnick",
+            "Smruthi Raj Mohan"
+          ],
+          [
+            "Shweta Mayekar",
+            "Romit Bhatia"
+          ],
+          [
+            "Archna Saxena",
+            "Quin Robinson"
+          ],
+          [
+            "Hennah Nazari",
+            "Albert Chen"
+          ],
+          [
+            "Connie He",
+            "Brielle Kolf"
+          ],
+          [
+            "David Hinton",
+            "Shalva Anuashvili"
+          ],
+          [
+            "Rajkamal Singh",
+            "Rohan Swaby"
+          ],
+          [
+            "Daniel Rosini",
+            "Matt Epstein"
+          ],
+          [
+            "Huda Khatoon",
+            "David Roglieri",
+            "Sophia Kohn"
+          ]
+        ]
+      }
+    }
+  }
+}

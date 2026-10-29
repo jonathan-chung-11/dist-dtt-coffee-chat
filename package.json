@@ -1,0 +1,14 @@
+{
+  "name": "coffee-chat-app",
+  "version": "1.0.0",
+  "description": "Coffee Chat Pairing System",
+  "scripts": {
+    "install-all": "cd backend && npm install && cd ../frontend && npm install",
+    "start": "node start.js",
+    "start:backend": "cd backend && node server.js",
+    "start:frontend": "cd frontend && npm start"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.1"
+  }
+}
